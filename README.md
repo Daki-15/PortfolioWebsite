@@ -40,3 +40,8 @@ The following technologies and libraries are used in this website:
 ## Contributing
 
 Contributions to this website are welcome. If you find any issues or want to suggest improvements, please create a pull request or submit an issue in the repository.
+
+
+## Website:
+
+![](./img/site.gif)
